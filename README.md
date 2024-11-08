@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# My Face Swap App
+
+Este proyecto utiliza las siguientes tecnologías:
+
+- **React** para la interfaz de usuario (UI)
+- **Vite** como servidor de desarrollo rápido y para el empaquetado de la aplicación
+- **Bootstrap** para el diseño y los estilos
+- **Python** para el backend y procesamiento de imágenes
